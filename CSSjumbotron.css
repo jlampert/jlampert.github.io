@@ -1,4 +1,6 @@
-
+.jumbotron {
+    background-color: white;
+  }
 h4 {
 font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
